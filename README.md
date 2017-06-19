@@ -20,7 +20,7 @@ so that your approach is clear.
 Your answers will be used as part of our sifting and are likely to be discussed with your
 interviewer at later stages.
 
-#Step 1: Shopping cart
+# Step 1: Shopping cart
 
 You are building a checkout system for a shop which only sells apples and
 oranges.
